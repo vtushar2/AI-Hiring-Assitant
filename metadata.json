@@ -1,0 +1,5 @@
+{
+  "name": "AI Hiring Assistant",
+  "description": "An intelligent recruitment dashboard that uses Gemini AI to simulate a multi-model pipeline: Resume Classification, Skill Extraction, and Candidate Shortlisting.",
+  "requestFramePermissions": []
+}
